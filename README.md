@@ -243,21 +243,16 @@ while not game_over:
 
 ## My Input
 
+<img width="287" height="50" alt="image" src="https://github.com/user-attachments/assets/fed4a594-24fe-4fd1-b07f-6e2e8610968f" />
 
-![alt text](<Screenshot 2026-11-26 103952.png>)
 
 
 
 ## My Output
 
 
-![alt text](<Screenshot 2026-11-26 103745.png>)
-![alt text](<Screenshot 2026-11-26 103804.png>)
-![alt text](<Screenshot 2026-11-26 103825.png>)
-![alt text](<Screenshot 2026-11-26 103842.png>)
-![alt text](<Screenshot 2026-11-26 103858.png>)
-![alt text](<Screenshot 2026-11-26 103911.png>)
-![alt text](<Screenshot 2026-11-26 103925.png>)
+<img width="185" height="837" alt="image" src="https://github.com/user-attachments/assets/37375092-37a9-4e7c-a1b7-94e3e692f62b" />
+
 
 
 ---
